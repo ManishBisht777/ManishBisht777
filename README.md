@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ecommerce Webiste using MERN Stack
-- 🌱 I’m currently learning React Redux
+- 🌱 I’m currently learning React Redux and payment integration
+- 
 - 👯 I’m looking to collaborate on Full Stack developement
 - 📫 You can contact me at manishbisht9711@gmail.com
 
