@@ -14,14 +14,18 @@
   </a>
 </p>
 
+
+<p>
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ManishBisht777&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
   </a>
   <br>
 </p>
+</p>
 
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
