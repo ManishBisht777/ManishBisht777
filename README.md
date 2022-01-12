@@ -15,9 +15,15 @@
 </p>
 
 <p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBisht777&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManishBisht777&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=CA40DD)](https://git.io/streak-stats)
-  </p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Swatigupta-droid&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
+  </a>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManishBisht777&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727&ring=CA40DD)](https://git.io/streak-stats)
+  <br>
+ 
+</p>
+
+
  
 
 
