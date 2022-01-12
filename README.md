@@ -1,9 +1,9 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Ecommerce Webiste using MERN Stack
-- 🌱 I’m currently learning React Redux 
-- 👯 I’m looking to collaborate on Full Stack developement
-- 📫 You can contact me at manishbisht9711@gmail.com
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%20World!%22;%22My%20name%20is%20Swati%20Gupta%22;%22Welcome%20to%20my%20Github%20profile!!:>%22&center=true&size=27&width=550">
+  </a>
+  
+</h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishbisht777" alt="manishbisht777" /></a> </p>
 
