@@ -5,6 +5,12 @@
   
 </h1>
 
+<h1 align="center">
+  Manjeet ko Shoutout
+</h1>
+  
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishbisht777" alt="manishbisht777" /></a> </p>
 
 <p align="center">
