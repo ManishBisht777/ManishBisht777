@@ -5,9 +5,7 @@
   
 </h1>
 
-<h1 align="center">
-  Manjeet ko Shoutout
-</h1>
+
   
 
 
