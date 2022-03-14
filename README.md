@@ -62,6 +62,17 @@
   <a href="https://nextjs.org/">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
+  </a>
+   <a href="https://www.framer.com/motion/">
+    <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue">
+  </a>
+   <a href="https://www.mongodb.com/cloud">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  
+  
 </p>
 
 
