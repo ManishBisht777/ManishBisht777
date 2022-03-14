@@ -59,6 +59,9 @@
   <a href="https://expressjs.com/">
     <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
   </a>
+  <a href="https://nextjs.org/">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  </a>
 </p>
 
 
