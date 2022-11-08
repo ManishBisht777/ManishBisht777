@@ -1,15 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%22Hello%20Fellas!!!%22;%22Manish%20Here!!%22&center=true&size=27&width=550">
-  </a>
-  
-</h1>
-
-
-  
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishbisht777" alt="manishbisht777" /></a> </p>
+![image](https://user-images.githubusercontent.com/89926834/200476757-e2232c5d-0575-41b3-8536-6fab9ba76730.png)
 
 <p align="center">
   <br>
@@ -27,6 +16,9 @@
   <br>
   </p>
 </p>
+
+
+
 
 
 
