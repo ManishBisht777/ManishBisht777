@@ -1,27 +1,5 @@
 ![image](https://user-images.githubusercontent.com/89926834/200476757-e2232c5d-0575-41b3-8536-6fab9ba76730.png)
 
-<p align="center">
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ManishBisht777&theme=react-dark&hide_border=true">
-  </a>
-</p>
-
-
-<p>
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ManishBisht777&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" >
-  </a>
-  <br>
-  </p>
-</p>
-
-
-
-
-
-
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 
 <p align="center">
