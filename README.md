@@ -46,8 +46,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ManishBisht777&label=Profile%20views&color=0e75b6&style=flat" alt="ManishBisht777" /></p>
 
-<img align="center" src="https://user-images.githubusercontent.com/89926834/199653572-70d43831-2733-45fe-982d-2ef985ab8d0a.png" alt="hopopin badges" >
-
 
 
  
